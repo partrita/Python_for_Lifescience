@@ -1,0 +1,21 @@
+Sequence Analysis Results
+==================================================
+
+Sequence: seq1 Human hemoglobin alpha chain
+Length: 142 amino acids
+Amino acid composition:
+  A: 21
+  T: 9
+  G: 7
+  C: 1
+GC Content: 5.63%
+------------------------------
+Sequence: seq2 Human hemoglobin beta chain
+Length: 147 amino acids
+Amino acid composition:
+  A: 15
+  T: 7
+  G: 13
+  C: 2
+GC Content: 10.20%
+------------------------------

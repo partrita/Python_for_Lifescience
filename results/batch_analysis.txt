@@ -1,0 +1,23 @@
+Batch Analysis Results
+==================================================
+
+File: gene2.fasta
+Sequence: gene2
+Length: 32 bp
+GC Content: 50.00%
+------------------------------
+File: gene3.fasta
+Sequence: gene3
+Length: 32 bp
+GC Content: 50.00%
+------------------------------
+File: sample_sequences.fasta
+Sequence: seq2 Human hemoglobin beta chain
+Length: 147 bp
+GC Content: 10.20%
+------------------------------
+File: gene1.fasta
+Sequence: gene1
+Length: 32 bp
+GC Content: 50.00%
+------------------------------

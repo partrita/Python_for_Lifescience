@@ -1,0 +1,8 @@
+>seq_with_N
+ATCGATCGATCNNNGATCGATCG
+>short_seq
+ATCG
+>seq_with_gaps
+ATCGATCG---ATCGATCG
+>normal_seq
+ATCGATCGATCGATCGATCG

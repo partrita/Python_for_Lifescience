@@ -1,0 +1,9 @@
+Sample_ID,Treatment,Concentration,Growth_Rate,Viability
+S001,Control,0,2.3,98.5
+S002,Drug_A,10,1.8,85.2
+S003,Drug_A,50,1.2,72.1
+S004,Drug_A,100,0.8,45.3
+S005,Drug_B,10,2.1,92.1
+S006,Drug_B,50,1.5,78.9
+S007,Drug_B,100,1.0,55.7
+S008,Control,0,2.4,97.8
