@@ -4,7 +4,7 @@ project:
 
 book:
   title: "생명과학을 위한 파이썬"
-  author: "Your Name"
+  author: "Ashfaq Ahmad"
   date: "2026-02-15"
   chapters:
     - index.qmd
@@ -19,9 +19,11 @@ book:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     code-copy: true
     code-link: true
+    toc: true
+    number-sections: false
 
 execute:
   eval: false
