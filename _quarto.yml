@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "생명과학을 위한 파이썬"
+  author: "Your Name"
+  date: "2026-02-15"
+  chapters:
+    - index.qmd
+    - Chapter_1_Foundation_ko.ipynb
+    - Chapter_2_Control_Structures_ko.ipynb
+    - Chapter_3_Data_Structures_for_Biology_ko.ipynb
+    - Chapter_4_Working_with_files_ko.ipynb
+    - Chapter_5_NumPy_for_Numerical_Data_ko.ipynb
+    - Chapter_6_Pandas_for_Data_Analysis_ko.ipynb
+    - Chapter_7_Data_Visualization_ko.ipynb
+    - Chapter_8_Statistical_Analysis_for_Biology_ko.ipynb
+
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+    code-link: true
+
+execute:
+  eval: false
